@@ -20,7 +20,7 @@ public class HesapMakinesi {
         //Hangi işlemi yapmak istediğini soralım.
 
         System.out.println("1=topla\n2=çıkar\n3=çarp\n4=böl");
-        System.out.print("Yapmak istediğiniz işleminin numarasını yazın :");
+        System.out.print("Yapmak istediğiniz işlemin numarasını yazın :");
         islem = input.nextInt();
 
         //switch-case yapısı ile işlemleri yazalım.
